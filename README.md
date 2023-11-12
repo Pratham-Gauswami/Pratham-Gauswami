@@ -1,5 +1,5 @@
 
----- 👋 Hi, I’m @Pratham-Gauswami Hi,a passionate and driven third-year computer science student with a specialization in software engineering.
+---- 👋 Hi, I’m @Pratham-Gauswami Hi, a passionate and driven third-year computer science student with a specialization in software engineering.
  My journey in the world of technology has been an exhilarating exploration, and I am excited about the endless possibilities that software development offers.
 
 - 👀 I'm deeply interested in the dynamic and ever-evolving field of software engineering. From crafting elegant code to solving complex problems, I find joy in every
